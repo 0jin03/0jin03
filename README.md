@@ -18,11 +18,11 @@ Feel free to contact me at **dudwls960119@gmail.com**
 
 ## 🛠️ Experience
 
-**Education**
+### Education
   - B.S in Applied Statistics, Konkuk University | 2023.03 ~ Present
   
  
-**Activites**
+### Activites
   - 11th Executive Member, **KUGGLE** (Big Data Analytics Club) | 2024.09 ~ 2025.06
   - Research Intern, **Graph & Language Intelligence Lab** , Konkuk University | 2024.09 ~ 2025.11
   - 1th **ONE Mentor**, Department of Applied Statistics, Konkuk University | 2025.02 ~ 2026.01
