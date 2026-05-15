@@ -31,11 +31,6 @@ Feel free to contact me at **dudwls960119@gmail.com**
 
 
 
-## 😄 Visit here!
-
-- Blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://view5059.tistory.com/)
-  <!--
-- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318) -->
 
   
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0jin03&show_icons=true&theme=tokyonight) -->
@@ -63,5 +58,11 @@ Feel free to contact me at **dudwls960119@gmail.com**
   ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
   ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+## 😄 Visit here!
+
+[![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://view5059.tistory.com/)
+  <!--
+- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318) -->
 
 
