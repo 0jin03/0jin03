@@ -61,8 +61,7 @@ Feel free to contact me at **dudwls960119@gmail.com**
 
 ## 😄 Visit here!
 
-[![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://view5059.tistory.com/)
-  <!--
-- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318) -->
+- blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://view5059.tistory.com/)
+- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318) 
 
 
