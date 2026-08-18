@@ -28,6 +28,7 @@ Feel free to contact me at **dudwls960119@gmail.com**
   - 1th **ONE Mentor**, Department of Applied Statistics, Konkuk University | 2025.02 ~ 2026.01
   - Winter Research Intern, **Data Systems Lab**, POSTECH | 2026.01 ~ 2026.03
   - 17th Executive Member, **BITAmin** (Big Data Analytics Club) | 2026.01 ~ Present
+  - Summer Research Intern, **Data Intelligence and Learning Lab**, SNU | 2026.07 ~ Present
 
 
 
@@ -63,5 +64,5 @@ Feel free to contact me at **dudwls960119@gmail.com**
 
 - blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://view5059.tistory.com/)
 - Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-2a2a6a1ca90880c1bd5bd0535bc8d5dc?source=copy_link) 
-
+- Linkedin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/영진-김-55a111391/)
 
