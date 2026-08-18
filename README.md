@@ -23,12 +23,13 @@ Feel free to contact me at **dudwls960119@gmail.com**
   
  
 ### Activites
-  - 11th Executive Member, **KUGGLE** (Big Data Analytics Club) | 2024.09 ~ 2025.06
-  - Research Intern, **Graph & Language Intelligence Lab** , Konkuk University | 2024.09 ~ 2025.11
-  - 1th **ONE Mentor**, Department of Applied Statistics, Konkuk University | 2025.02 ~ 2026.01
-  - Winter Research Intern, **Data Systems Lab**, POSTECH | 2026.01 ~ 2026.03
-  - 17th Executive Member, **BITAmin** (Big Data Analytics Club) | 2026.01 ~ Present
   - Summer Research Intern, **Data Intelligence and Learning Lab**, SNU | 2026.07 ~ Present
+  - 17th Executive Member, **BITAmin** (Big Data Analytics Club) | 2026.01 ~ Present
+  - Winter Research Intern, **Data Systems Lab**, POSTECH | 2026.01 ~ 2026.03
+  - 1th **ONE Mentor**, Department of Applied Statistics, Konkuk University | 2025.02 ~ 2026.01
+  - Research Intern, **Graph & Language Intelligence Lab** , Konkuk University | 2024.09 ~ 2025.11
+  - 11th Executive Member, **KUGGLE** (Big Data Analytics Club) | 2024.09 ~ 2025.06
+
 
 
 
