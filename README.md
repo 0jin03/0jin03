@@ -5,6 +5,8 @@ Feel free to contact me at **dudwls960119@gmail.com**
 
 ## 🔬 Research Interests
 
+  - LLM Agent
+  - RLVR
   - Graph Machine Learning / Deep Learning
   - LLM-Based Recommendation Systems
   - LLM Optimization
